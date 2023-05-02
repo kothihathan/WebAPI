@@ -1,0 +1,477 @@
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Web.config
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\NReco.Logging.File.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Pack.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApi.props
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Dev_Thiha\Daily Report\Personnel\Angular NET Core\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Web.config
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.exe
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\NReco.Logging.File.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Speech.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Pack.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApi.props
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\Personal Data\TEST\Tunity\Angular NET Core Coding\Angular NET Core Coding\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Web.config
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\NReco.Logging.File.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Pack.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApi.props
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Dev_Thiha\Doc\Aspnetcore\Aspnetcore\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
